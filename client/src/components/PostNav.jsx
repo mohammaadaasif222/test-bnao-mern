@@ -28,8 +28,7 @@ const PostNav = () => {
   ];
 
   useEffect(() => {
-    // Any side effects related to 'active' state can be placed here
-    console.log(active);
+   
   }, [active]);
 
   return (
